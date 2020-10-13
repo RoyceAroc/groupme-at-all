@@ -3,7 +3,7 @@ const https = require("https");
 // Bot configs read in from environment
 const room_id = '63277090';
 const bot_id = '32d3c8367a4624e9ca327da24e';
-const token = 'LYhhLyCWc5IiNLG8QW6PnOWOKr9Bt9fydNrTLZZrhZ3oS4gX';
+const token = 'dfbbbc20efba013818786a4c6cb0fb1e';
 
 if (!room_id || !bot_id || !token) {
   console.error(
